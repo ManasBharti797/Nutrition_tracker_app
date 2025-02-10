@@ -1,5 +1,0 @@
-matplotlib
-<other dependencies>
-streamlit
-google.generativeai
-python-dotenv
